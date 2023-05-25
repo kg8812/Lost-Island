@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Screen.unity
+    guid: 2720129364e76414da26742a6f2029a0
+  - enabled: 1
+    path: Assets/Scenes/Hideout.unity
+    guid: 40bd14ca5dabbba4ea123a53c1a1f51b
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: 2e294c14e1365fd44afe0bdf4255bb84
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 0aee820a22476994d83b0fb1f707cbfc
+  - enabled: 1
+    path: Assets/Scenes/Practice.unity
+    guid: f26fb60eaa0330645926726a0c3d9360
+  - enabled: 1
+    path: Assets/Scenes/Quest1.unity
+    guid: 31c57d7c4dd8d44479140df4773f84a0
+  - enabled: 1
+    path: Assets/Scenes/Quest2.unity
+    guid: 91064f491671b5e4fba84400be870334
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 31ba23c5e102ec7459712f42c719e707
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 4f08bb3eca31a15479482676c8502c7e
+  m_configObjects: {}
